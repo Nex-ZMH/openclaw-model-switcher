@@ -1,0 +1,25 @@
+
+  +-------------------------------------------------------+
+  |               OpenClaw Gateway                        |
+  +-------------------------------------------------------+
+  |     ollama/qwen3:8b                                   |
+  | [*] qwen-portal/coder-model *                         |
+  | [ ] qwen-portal/vision-model                          |
+  | [ ] qwen-bailian/qwen3-max-2026-01-23                 |
+  | [ ] qwen-bailian/kimi-k2.5 (kimi)                     |
+  | [ ] qwen-bailian/glm-4.7 (glm47)                      |
+  | [ ] qwen-bailian/MiniMax-M2.1 (minimax)               |
+  | [ ] zai/glm-4.7 (GLM)                                 |
+  | [ ] minimax/MiniMax-M2.1 (minimax)                    |
+  | [ ] opencode/claude-opus-4-6 (Opus)                   |
+  | [ ] opencode/kimi-k2.5-free                           |
+  | [ ] moonshot/kimi-k2.5 (Kimi)                         |
+  | [ ] kimi-coding/k2p5 (Kimi K2.5)                      |
+  | [ ] kimi-coding/kimi-k2-thinking                      |
+  | [ ] opencode/minimax-m2.5-free                        |
+  |                                                       |
+  |   [Skip] Start OpenClaw directly                      |
+  +-------------------------------------------------------+
+
+  Up/Down: Navigate   Space: Mark   Enter: Confirm   Q: Quit
+

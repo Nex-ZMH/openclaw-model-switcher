@@ -1,0 +1,16 @@
+# PowerShell
+*.psm1
+*.psd1
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

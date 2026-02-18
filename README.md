@@ -165,6 +165,14 @@ The manager reads model configurations from `~/.openclaw/openclaw.json` and modi
 - [ ] Recent models history
 ---
 
+## Author
+
+[Nex-ZMH](https://github.com/Nex-ZMH)
+
+## License
+
+[MIT](LICENSE)
+
 ## 中文
 
 ### 简介
@@ -284,12 +292,13 @@ irm https://raw.githubusercontent.com/Nex-ZMH/openclaw-model-manager/main/uninst
 - [ ] 搜索/过滤模型
 - [ ] 最近模型历史记录
 
-## Author
+## 作者
 
 [Nex-ZMH](https://github.com/Nex-ZMH)
 
-## License
+## 许可
 
 [MIT](LICENSE)
+
 
 

@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nex-ZMH/openclaw-model-switcher/main/logo.jpg" width="660" alt="OpenClaw Model Switcher Logo">
+  <img src="https://raw.githubusercontent.com/Nex-ZMH/openclaw-model-manager/main/logo.jpg" width="660" alt="OpenClaw Model manager Logo">
 </p>
 </p>
-<h1 align="center">OpenClaw Model Switcher 🦞</h1>
+<h1 align="center">OpenClaw Model manager 🦞</h1>
 
 <p align="center">
   <b>Zero friction. Zero config. 100% Interactive.</b>
@@ -41,7 +41,7 @@ Built by Nex-ZMH,an energy industry AI explorer from a remote mountain village o
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nex-ZMH/openclaw-model-switcher/main/ScreenShot.png" width="500" alt="Demo Screenshot">
+  <img src="https://raw.githubusercontent.com/Nex-ZMH/openclaw-model-manager/main/ScreenShot.png" width="500" alt="Demo Screenshot">
 </p>
 
 ---
@@ -50,7 +50,7 @@ Built by Nex-ZMH,an energy industry AI explorer from a remote mountain village o
 
 ### Getting Started
 
-**OpenClaw Model Switcher** — An elegant, interactive model switcher that transforms your OpenClaw experience. Featuring a polished terminal UI, it automatically detects available models from `openclaw.json` and empowers you to seamlessly switch configurations at launch — no manual file editing required.
+**OpenClaw Model manager** — An elegant, interactive model manager that transforms your OpenClaw experience. Featuring a polished terminal UI, it automatically detects available models from `openclaw.json` and empowers you to seamlessly switch configurations at launch — no manual file editing required.
 
 ### Features
 
@@ -64,10 +64,10 @@ Built by Nex-ZMH,an energy industry AI explorer from a remote mountain village o
 
 ```powershell
 # Clone the repository
-git clone https://github.com/Nex-ZMH/openclaw-model-switcher.git
+git clone https://github.com/Nex-ZMH/openclaw-model-manager.git
 
 # Navigate to directory
-cd openclaw-model-switcher
+cd openclaw-model-manager
 
 # Run installer
 .\install.ps1
@@ -144,7 +144,7 @@ openclaw gateway --skip
 Or:
 
 ```powershell
-irm https://raw.githubusercontent.com/Nex-ZMH/openclaw-model-switcher/main/uninstall.ps1 | iex
+irm https://raw.githubusercontent.com/Nex-ZMH/openclaw-model-manager/main/uninstall.ps1 | iex
 ```
 
 ### Requirements
@@ -155,7 +155,7 @@ irm https://raw.githubusercontent.com/Nex-ZMH/openclaw-model-switcher/main/unins
 
 ### How It Works
 
-The switcher reads model configurations from `~/.openclaw/openclaw.json` and modifies the `agents.defaults.model.primary` field when you select a model.
+The manager reads model configurations from `~/.openclaw/openclaw.json` and modifies the `agents.defaults.model.primary` field when you select a model.
 
 ### Roadmap
 
@@ -169,7 +169,7 @@ The switcher reads model configurations from `~/.openclaw/openclaw.json` and mod
 
 ### 简介
 
-**OpenClaw Model Switcher** — 一款优雅的交互式模型切换工具，为您的 OpenClaw 使用体验带来全新升级。它拥有精致的终端界面，能够自动从 openclaw.json 中检测可用模型，让您在启动时轻松切换配置，无需手动编辑文件。
+**OpenClaw Model manager** — 一款优雅的交互式模型切换工具，为您的 OpenClaw 使用体验带来全新升级。它拥有精致的终端界面，能够自动从 openclaw.json 中检测可用模型，让您在启动时轻松切换配置，无需手动编辑文件。
 
 ### 功能特性
 
@@ -184,10 +184,10 @@ The switcher reads model configurations from `~/.openclaw/openclaw.json` and mod
 
 ```powershell
 # 克隆仓库
-git clone https://github.com/Nex-ZMH/openclaw-model-switcher.git
+git clone https://github.com/Nex-ZMH/openclaw-model-manager.git
 
 # 进入目录
-cd openclaw-model-switcher
+cd openclaw-model-manager
 
 # 运行安装脚本
 .\install.ps1
@@ -264,7 +264,7 @@ openclaw gateway --skip
 或：
 
 ```powershell
-irm https://raw.githubusercontent.com/Nex-ZMH/openclaw-model-switcher/main/uninstall.ps1 | iex
+irm https://raw.githubusercontent.com/Nex-ZMH/openclaw-model-manager/main/uninstall.ps1 | iex
 ```
 
 ### 系统要求

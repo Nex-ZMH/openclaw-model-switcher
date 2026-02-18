@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nex-ZMH/openclaw-model-switcher/main/logo.jpg" width="660" alt="OpenClaw Model Switcher Logo">
 </p>
-
+</p>
 <h1 align="center">OpenClaw Model Switcher 🦀</h1>
 
 <p align="center">
@@ -26,10 +26,15 @@
     <img src="https://img.shields.io/badge/Status-Stable-brightgreen.svg?style=flat-square" alt="Status">
   </a>
 </p>
+<p align="center">
+Built by Nex-ZMH,an energy industry AI explorer from a remote mountain village of China in February 2026.
 
 <p align="center">
+  🌐 Languages:
   <a href="#english">English</a> ·
   <a href="#中文">简体中文</a> ·
+<p align="center">
+ ⚡️Quick Routes: 
   <a href="#getting-started">Getting Started</a> ·
   <a href="#features">Features</a> ·
   <a href="#installation">Installation</a> ·
@@ -37,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nex-ZMH/openclaw-model-switcher/main/ScreenShot.png" width="800" alt="Demo Screenshot">
+  <img src="https://raw.githubusercontent.com/Nex-ZMH/openclaw-model-switcher/main/ScreenShot.png" width="500" alt="Demo Screenshot">
 </p>
 
 ---
@@ -131,7 +136,7 @@ openclaw gateway --list
 openclaw gateway --skip
 ```
 
-### Uninstallation
+#### Uninstallation
 
 ```powershell
 .\uninstall.ps1
@@ -143,17 +148,17 @@ Or:
 irm https://raw.githubusercontent.com/Nex-ZMH/openclaw-model-switcher/main/uninstall.ps1 | iex
 ```
 
-### Requirements
+#### Requirements
 
 - [OpenClaw](https://github.com/sst/openclaw) installed globally via npm
 - PowerShell 5.1+ (Windows)
 - Node.js
 
-### How It Works
+#### How It Works
 
 The switcher reads model configurations from `~/.openclaw/openclaw.json` and modifies the `agents.defaults.model.primary` field when you select a model.
 
-### Roadmap
+#### Roadmap
 
 - [ ] Linux support (bash script)
 - [ ] macOS support
@@ -163,7 +168,7 @@ The switcher reads model configurations from `~/.openclaw/openclaw.json` and mod
 
 ## 中文
 
-### 快速开始
+### 简介
 
 **OpenClaw Model Switcher** — 一款优雅的交互式模型切换工具，为您的 OpenClaw 使用体验带来全新升级。它拥有精致的终端界面，能够自动从 openclaw.json 中检测可用模型，让您在启动时轻松切换配置，无需手动编辑文件。
 
